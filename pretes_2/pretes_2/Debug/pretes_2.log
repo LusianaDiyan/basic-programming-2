@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\semester 2\prak.progdas2\pretes_2\pretes_2\source.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  pretes_2.vcxproj -> D:\Semester 2\prak.progdas2\pretes_2\Debug\pretes_2.exe

@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\semester 2\prak.progdas2\ipk\ipk\source.cpp(153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\semester 2\prak.progdas2\ipk\ipk\source.cpp(153): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\semester 2\prak.progdas2\ipk\ipk\source.cpp(96): warning C4101: 'a': unreferenced local variable
+d:\semester 2\prak.progdas2\ipk\ipk\source.cpp(96): warning C4101: 'jumlahMhs': unreferenced local variable
+d:\semester 2\prak.progdas2\ipk\ipk\source.cpp(98): warning C4101: 'ip_plus': unreferenced local variable
+d:\semester 2\prak.progdas2\ipk\ipk\source.cpp(96): warning C4101: 'i': unreferenced local variable
+d:\semester 2\prak.progdas2\ipk\ipk\source.cpp(96): warning C4101: 'c': unreferenced local variable
+d:\semester 2\prak.progdas2\ipk\ipk\source.cpp(184): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\semester 2\prak.progdas2\ipk\ipk\source.cpp(194): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  IPK.vcxproj -> D:\Semester 2\prak.progdas2\IPK\Debug\IPK.exe

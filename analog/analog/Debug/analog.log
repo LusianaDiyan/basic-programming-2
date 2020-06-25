@@ -1,0 +1,26 @@
+﻿Build started 21 Mei 2019 09.18.43.
+     1>Project "D:\PENS\Semester 2\prak.progdas2\analog\analog\analog.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\analog.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt analogView.cpp
+         analogView.cpp
+     1>d:\pens\semester 2\prak.progdas2\analog\analog\analogview.cpp(160): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pens\semester 2\prak.progdas2\analog\analog\analogview.cpp(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pens\semester 2\prak.progdas2\analog\analog\analogview.cpp(162): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pens\semester 2\prak.progdas2\analog\analog\analogview.cpp(163): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pens\semester 2\prak.progdas2\analog\analog\analogview.cpp(183): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pens\semester 2\prak.progdas2\analog\analog\analogview.cpp(190): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pens\semester 2\prak.progdas2\analog\analog\analogview.cpp(197): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         E:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PENS\Semester 2\prak.progdas2\analog\Debug\analog.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\visual studio\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\PENS\Semester 2\prak.progdas2\analog\Debug\analog.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PENS\Semester 2\prak.progdas2\analog\Debug\analog.lib" /MACHINE:X86 Debug\analog.res
+         Debug\analog.obj
+         Debug\analogDoc.obj
+         Debug\analogView.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+     1>analog.obj : error LNK2001: unresolved external symbol "public: void __thiscall CAboutDlg::OnFileNew(void)" (?OnFileNew@CAboutDlg@@QAEXXZ)
+     1>D:\PENS\Semester 2\prak.progdas2\analog\Debug\analog.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "D:\PENS\Semester 2\prak.progdas2\analog\analog\analog.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.61

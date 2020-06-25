@@ -1,0 +1,16 @@
+﻿Build started 2 Mei 2019 10.07.41.
+     1>Project "D:\PENS\Semester 2\prak.progdas2\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplication1.cpp MFCApplication1Dlg.cpp Source.cpp
+         Source.cpp
+     1>d:\pens\semester 2\prak.progdas2\mfcapplication1\mfcapplication1\source.cpp(1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         MFCApplication1Dlg.cpp
+         Generating Code...
+         Compiling...
+         MFCApplication1.cpp
+         Generating Code...
+     1>Done Building Project "D:\PENS\Semester 2\prak.progdas2\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:21.90

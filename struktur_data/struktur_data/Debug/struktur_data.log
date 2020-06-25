@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\semester 2\prak.progdas2\struktur_data\struktur_data\source.cpp(36): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\semester 2\prak.progdas2\struktur_data\struktur_data\source.cpp(38): warning C4101: 'akhir': unreferenced local variable
+  struktur_data.vcxproj -> D:\Semester 2\prak.progdas2\struktur_data\Debug\struktur_data.exe
